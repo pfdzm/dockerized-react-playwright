@@ -15,6 +15,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          data-test-id='greeting'
         >
           Learn React
         </a>
